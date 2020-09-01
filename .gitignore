@@ -1,0 +1,8 @@
+* .swp
+project.lock.json
+
+build/
+bld/
+msbuild.log
+msbuild.err
+msbuild.wrn
